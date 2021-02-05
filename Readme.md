@@ -1,3 +1,4 @@
+G
 Cashify 💸
 Biblioteca de conversión de moneda ligera, sucesora de money.js
 
